@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello World! 👋 I'm Harshil Andhariya
-#🎓 About Me
--🏫 Sophomore at NIT Surat, Pursuing Engineering major in Artificial Intelligence.
--💡 Passionate of making intutive and scalable solutions of real life problems.
--🎉 Fun fact: I once debugged a machine learning model at 3 AM and found the bug was a misplaced comma!
--🛠 Tech Stack
+# 🎓 About Me
+- 🏫 Sophomore at NIT Surat, Pursuing Engineering major in Artificial Intelligence.
+- 💡 Passionate of making intutive and scalable solutions of real life problems.
+<!-- 🎉 Fun fact: I once debugged a machine learning model at 3 AM and found the bug was a misplaced comma! -->
+- 🛠 Tech Stack
 C++ C Python HTML5 TypeScript React Next.js MySQL MongoDB Tailwind CSS Node JS 
 
-#🌱 I'm currently Exploring
+# 🌱 I'm currently Exploring
 Next JS and diving deep into data structure and algorithms.
 
-#👨‍💻 Projects
+# 👨‍💻 Projects
 1. Capify - GeeksforGeeks Avishkaar Hackathon
 Description: Capify is a fintech web application designed to address diverse financial needs for individuals, groups, and small vendors.
 Hackathon Outcome: Secured 3rd Runner-Up position out of 1000+ registered teams on Unstop.
