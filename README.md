@@ -17,7 +17,7 @@ Hello World! 👋 I'm Harshil Andhariya
 # 🎓 About Me
 - 🏫 Sophomore at NIT Surat, Pursuing Engineering major in Artificial Intelligence.
 - 💡 Passionate of making intutive and scalable solutions of real life problems.
-<!-- 🎉 Fun fact: I once debugged a machine learning model at 3 AM and found the bug was a misplaced comma! -->
+
 - 🛠 Tech Stack
 C++ C Python HTML5 TypeScript React Next.js MySQL MongoDB Tailwind CSS Node JS 
 
@@ -55,13 +55,5 @@ Input validation using Zod for enhanced reliability
 Technologies: Next.js, React, Node.js, Express, MongoDB, JWT, and Zod
 Objective: Enhanced proficiency in Next.js, input validation, and full-stack development practices.
 
-<!-- mjgandhi2305's Stats
-
-<!--mjgandhi2305's Streak
-
-<!-- mjgandhi2305's Top Languages -->
-
-🤝 Connect with me
-   
-
-Profile views
+<!--# Connect with me 🤝-->
+  
