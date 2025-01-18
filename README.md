@@ -36,6 +36,9 @@ Technologies: HTML, CSS, JavaScript, React, Next.js, stramlit, MongoDB and NLP
 Team: Collaborated with an amazing team to develop and pitch the project in a 48-hour challenge.
 live deployed link : capify.vercel.app
 
+2. Agricultural Decision Support Dashboard Description: A dashboard designed for farmers, offering real-time insights and tools to enhance agricultural decision-making. Features: Weather Forecasting and Alerts Soil Health Analysis and Crop Recommendations Market Trends and Financial Tools Interactive Maps and Predictive Models Technologies: HTML, CSS, JavaScript, Chart.js Special Additions: Includes dynamic graphs and tables comparing user and ideal data, along with technology recommendations for various soil and crop combinations.
+
+3. Full Stack Authentication App Description: A robust authentication app built just to practice and explore Next.js libraries and full-stack development concepts. Features: User registration and login functionality Secure authentication with JWT and session handling Input validation using Zod for enhanced reliability Technologies: Next.js, React, Node.js, Express, MongoDB, JWT, and Zod Objective: Enhanced proficiency in Next.js, input validation, and full-stack development practices.
 
 
 <!--# Connect with me 🤝-->
