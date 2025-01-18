@@ -19,10 +19,10 @@ Hello World! 👋 I'm Harshil Andhariya
 - 💡 Passionate of making intutive and scalable solutions of real life problems.
 
 - 🛠 Tech Stack
-C++ C Python HTML5 TypeScript React Next.js MySQL MongoDB Tailwind CSS Node JS 
+C++ C Python HTML5 TypeScript Express JS React Next.js MySQL MongoDB Tailwind CSS Node JS Express JS
 
 # 🌱 I'm currently Exploring
-Next JS and diving deep into data structure and algorithms.
+NEXT JS and eager to learn Machin learning.
 
 # 👨‍💻 Projects
 1. Capify - GeeksforGeeks Avishkaar Hackathon
@@ -32,7 +32,7 @@ Features:
 Comprehensive financial management tools
 AI and NLP-powered features
 User-friendly solutions for budgeting, expense tracking, and group finance management
-Technologies: HTML, CSS, JavaScript, React, Next.js, Flask, AI, and NLP
+Technologies: HTML, CSS, JavaScript, React, Next.js, stramlit, MongoDB and NLP
 Team: Collaborated with an amazing team to develop and pitch the project in a 48-hour challenge.
 live deployed link : capify.vercel.app
 
