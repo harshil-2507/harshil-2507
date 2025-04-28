@@ -18,28 +18,84 @@ Hello World! 👋 I'm Harshil Andhariya
 - 🏫 Sophomore at NIT Surat, Pursuing Engineering major in Artificial Intelligence.
 - 💡 Passionate of making intutive and scalable solutions of real life problems.
 
-- 🛠 Tech Stack
-C++ C Python HTML5 TypeScript Express JS React Next.js MySQL MongoDB Tailwind CSS Node JS Express JS
+## 🛠 Tech Stacks
+
+- **Frameworks:**  
+  Next.js · Node.js · Express.js · React.js · OpenCV · Three.js · LangChain · TensorFlow
+
+- **Technical Tools and Skills:**  
+  Appwrite · Firebase · AWS · Git Version Control · Vercel · Tailwind CSS · Prompt Engineering
+
+- **Software Packages and Libraries:**  
+  JWT · bcryptjs · Selenium · PyWhatKit · Pygame · NumPy · Pandas · Matplotlib
+
 
 # 🌱 I'm currently Exploring
 NEXT JS and eager to learn Machin learning.
 
-# 👨‍💻 Projects
-1. Capify - GeeksforGeeks Avishkaar Hackathon
-Description: Capify is a fintech web application designed to address diverse financial needs for individuals, groups, and small vendors.
-Hackathon Outcome: Secured 3rd Runner-Up position out of 1000+ registered teams on Unstop.
-Features:
-Comprehensive financial management tools
-AI and NLP-powered features
-User-friendly solutions for budgeting, expense tracking, and group finance management
-Technologies: HTML, CSS, JavaScript, React, Next.js, stramlit, MongoDB and NLP
-Team: Collaborated with an amazing team to develop and pitch the project in a 48-hour challenge.
-live deployed link : capify.vercel.app
+# 🚀 Project Portfolio
 
-2. Agricultural Decision Support Dashboard Description: A dashboard designed for farmers, offering real-time insights and tools to enhance agricultural decision-making. Features: Weather Forecasting and Alerts Soil Health Analysis and Crop Recommendations Market Trends and Financial Tools Interactive Maps and Predictive Models Technologies: HTML, CSS, JavaScript, Chart.js Special Additions: Includes dynamic graphs and tables comparing user and ideal data, along with technology recommendations for various soil and crop combinations.
+Welcome to my project portfolio! Here, I showcase major projects built with a focus on AI innovation, SaaS platforms, and finance technology.
 
-3. Full Stack Authentication App Description: A robust authentication app built just to practice and explore Next.js libraries and full-stack development concepts. Features: User registration and login functionality Secure authentication with JWT and session handling Input validation using Zod for enhanced reliability Technologies: Next.js, React, Node.js, Express, MongoDB, JWT, and Zod Objective: Enhanced proficiency in Next.js, input validation, and full-stack development practices.
+---
 
+## **_RoboBuddy — The Comprehensive AI Model_**
+
+A powerful Generative AI project enabling real-time search, task automation, and voice-driven interactions.
+
+- **Highlights:**
+  - Designed a modular voice-driven model using Cohere, Groq LLaMA-3, Selenium, PyWhatKit, and HuggingFace APIs.
+  - Built a real-time search engine with highly reliable retrieval performance.
+  - Automated tasks such as image generation through intelligent workflows.
+  - Developed a model classifier brain with advanced predictive capabilities.
+  - Created an appealing GUI supporting seamless chat history management.
+
+- **Tech Stack:**  
+  Cohere · Groq LLaMA-3 · Selenium · PyWhatKit · HuggingFace · Python · Streamlit
+
+---
+
+## **_HelperBuddy — SaaS for Seamless Doorstep Service Bookings_**
+
+A Next.js-powered service booking platform delivering smooth, secure, and engaging user experiences.
+
+- **Highlights:**
+  - Built using Next.js, TypeScript, and MongoDB for a responsive full-stack architecture.
+  - Integrated real-time notifications, Razorpay secure payments, and Three.js + GSAP animations.
+  - Introduced a referral rewards system for organic platform growth.
+  - Optimized service allocation through a first-come-first-serve algorithm.
+
+- **Tech Stack:**  
+  Next.js · TypeScript · MongoDB · Razorpay API · Three.js · GSAP · Tailwind CSS
+
+---
+
+## **_Capify — All-in-One Finance Platform_**
+
+A comprehensive finance management platform tailored for individuals, groups, and small businesses.
+
+- **Highlights:**
+  - Developed with Next.js, MongoDB, Natural Language Processing (NLP), and Generative AI.
+  - Implemented SplitSmart for intelligent group expense management.
+  - Built an NLP-based invoice analyzer for automated financial data extraction.
+  - Integrated AI-powered stock prediction to assist in financial planning.
+  - Focused on delivering a faster and smoother platform experience.
+
+- **Tech Stack:**  
+  Next.js · MongoDB · Natural Language Processing (NLP) · Generative AI · Tailwind CSS
+
+
+## 📈 Future Directions
+
+- Expanding RoboBuddy with enhanced voice-driven capabilities and more automation tools.
+- Broadening HelperBuddy to support business-to-business (B2B) service offerings.
+- Upgrading Capify with a real-time financial analytics dashboard and smarter AI-driven tools.
+
+---
+
+## 📬 Let's Connect
+
+[LinkedIn: Harshil Andhariya](https://www.linkedin.com/in/harshilpf2507/)
 
 <!--# Connect with me 🤝-->
   
