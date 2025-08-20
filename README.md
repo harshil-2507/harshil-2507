@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 Hello World! 👋 I'm Harshil Andhariya
 # 🎓 About Me
-- 🏫 Sophomore at NIT Surat, Pursuing Engineering major in Artificial Intelligence.
+- 🏫 Junior at NIT Surat, Pursuing Engineering major in Artificial Intelligence.
 - 💡 Passionate of making intutive and scalable solutions of real life problems.
 
 ## 🛠 Tech Stacks
