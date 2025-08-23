@@ -4,7 +4,7 @@ I'm Harshil, a pre-final year B.Tech student at NIT Surat specializing in Comput
 I enjoy building impactful projects, learning new tools and technologies, and collaborating with like-minded people who share a passion for creating meaningful change through technology.
 
 # 🎓 About Me  
-- 🏫 Junior at National Institute of Technology, Surat, pursuing B.Tech in Artificial Intelligence with a CGPA of 8.13.  
+- 🏫 Junior at National Institute of Technology, Surat, pursuing B.Tech in Artificial Intelligence.
 - 💡 Passionate about building intuitive and scalable solutions to real-world problems, leveraging AI, SaaS, and fintech technologies.  
 
 ## 🛠 Tech Stacks  
